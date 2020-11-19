@@ -22,7 +22,7 @@ export default function App() {
 
   useEffect(() => {
     onTermSubmit('miles morales ps5')
-  }, [onTermSubmit])
+  }, [])
 
   return (
     <div className="ui container">
