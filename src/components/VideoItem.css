@@ -1,0 +1,11 @@
+.video-item {
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer !important;
+}
+
+.video-item img {
+  flex-shrink: 0 !important;
+  flex-grow: 0 !important;
+  flex-basis: 160px !important;
+}
